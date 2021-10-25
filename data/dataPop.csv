@@ -1,0 +1,16 @@
+# POPULATION PARAMETERS
+# Code: population ID
+# Population : Name of the population
+# Abrv : abreviation
+# Area: square meter
+# Distance: in km
+# River length: in km
+# Rmax: recruitment maximum (parameter for the stock-recruitement relationship)
+# alpha : density-independent survival (slope of the stock-recruitement relationship)
+# Type: source/sink/neutral
+
+Code;Population;Abrv;Area;Distance;Length;Rmax;alpha;Type
+1;Couesnon;COU;110794;508;101;12.2;0.08682;source
+2;Leff;LEF;72305;602;101;20.38;0.14777;sink
+3;Scorff;SCO;229027;1087;78;13.4;0.09588;sink
+4;Blavet;BLA;326121;1087;149;10.75;0.07665;neutral
